@@ -1,3 +1,4 @@
+import Navigation from "./Components/Navigation"
 
 
 
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello</h1>
+      < Navigation/>
     </>
   )
 }
